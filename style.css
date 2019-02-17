@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+td{
+	border: 2px solid;
+	border-color: white;
+	border-radius: 10px;
+	
+
+}
+
+table{
+	
+	border: 2px solid;
+	border-color: white;
+	margin: auto;
+	border-radius: 8px;
+	
+
+}
+div{
+	background-color: yellow;
+}
+body{
+	background-image: url(asss.jpg);
+	background-size: cover;
+}
+.nam{
+	border-radius: 8px;
+	border-color: 1px;
+	border-color: white;
+	background-color: skyblue;
+}
+.button{
+	border-radius: 4px;
+	width: 50px;
+}
+.pass{
+	border-radius: 7px;
+}
+.text{
+	border-radius: 7px;	
+}
+.submit{
+	border-radius: 7px;
+	color: red;
+	background-color: black;
+	border-color: black;
+}
+.submit:hover{
+	color: black;
+	background-color: greenyellow;
+	cursor: pointer;
+	transform: scale(1.2); 
+	transition: 0.4s;
+}
